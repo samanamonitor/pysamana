@@ -1,5 +1,4 @@
 from setuptools import setup, find_packages
-import version
 
 setup(
     name='samana',
