@@ -1,4 +1,4 @@
-# PYSAMMWR package
+# PYSAMMANA package
 This package contains Samana Check libraries
 
 # To compile
